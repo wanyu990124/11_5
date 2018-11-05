@@ -1,0 +1,11 @@
+﻿  test.c
+c:\users\admin\documents\visual studio 2013\projects\-1\11_5\11_5\test.c(18): warning C4047: “函数”:“char *”与“int”的间接级别不同
+c:\users\admin\documents\visual studio 2013\projects\-1\11_5\11_5\test.c(18): warning C4024: “gets”: 形参和实参 1 的类型不同
+c:\users\admin\documents\visual studio 2013\projects\-1\11_5\11_5\test.c(20): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+c:\users\admin\documents\visual studio 2013\projects\-1\11_5\11_5\test.c(20): warning C4024: “rearrange”: 形参和实参 2 的类型不同
+c:\users\admin\documents\visual studio 2013\projects\-1\11_5\11_5\test.c(14): warning C4101: “intput”: 未引用的局部变量
+c:\users\admin\documents\visual studio 2013\projects\-1\11_5\11_5\test.c(32): warning C4047: “函数”:“int”与“char [13]”的间接级别不同
+c:\users\admin\documents\visual studio 2013\projects\-1\11_5\11_5\test.c(32): warning C4024: “exit”: 形参和实参 1 的类型不同
+c:\users\admin\documents\visual studio 2013\projects\-1\11_5\11_5\test.c(50): warning C4013: “strncp”未定义；假设外部返回 int
+test.obj : error LNK2019: 无法解析的外部符号 _strncp，该符号在函数 _rearrange 中被引用
+C:\Users\admin\Documents\Visual Studio 2013\Projects\-1\11_5\Debug\11_5.exe : fatal error LNK1120: 1 个无法解析的外部命令
